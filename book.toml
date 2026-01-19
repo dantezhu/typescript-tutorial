@@ -1,7 +1,6 @@
 [book]
 authors = ["dantezhu"]
 language = "en"
-multilingual = false
 src = "docs"
 title = "TypeScript 教程"
 

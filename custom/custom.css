@@ -1,7 +1,15 @@
 :root {
     --content-max-width: 1024px;
-    --mono-font: 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace;
+    --mono-font: 'SF Mono', 'Roboto Mono', 'JetBrains Mono', Menlo, Consolas, 'Liberation Mono', monospace;
     --code-font-size: 0.9em;
     font-variant-ligatures: none;
-    font-family: Arial, sans-serif;
+    font-family: 'PingFang SC', Inter, Roboto, 'Microsoft YaHei', sans-serif;
+}
+
+body {
+    font-size: 17px;
+}
+
+.light {
+    color: #333;
 }
